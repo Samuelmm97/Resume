@@ -9,7 +9,9 @@ br {
 }
 
 .experience-table {
-  width: 500px;
+  width: 700px;
+  
+  line-height: 3em;
 }
 
 .cartoon {
@@ -23,6 +25,10 @@ br {
 
 .CS {
   text-align: center;
+}
+
+.dates-row {
+  padding-right: 6em;
 }
 
 body {
@@ -105,3 +111,5 @@ body {
 .footer-text {
   margin-bottom: 1.5em;
 }
+
+
